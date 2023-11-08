@@ -1,4 +1,4 @@
-### <h1 align="center">Olá, sou Victor Augusto 👋</h1> 
+### <h1 align="center">Olá, Meu nome é Victor Augusto 👋</h1> 
 
 <!--
 **victoragusto100/victoragusto100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
