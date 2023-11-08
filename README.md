@@ -1,5 +1,5 @@
 <!--### <h1 align="center">Olá, Meu nome é Victor Augusto 👋</h1> --->
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Victor+Augusto" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Victor+Augusto" alt="Typing SVG" /></a>
 
 <!--
 **victoragusto100/victoragusto100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
