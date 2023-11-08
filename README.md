@@ -1,4 +1,4 @@
-### <h1>Olhá, sou Victor Augusto</h1> 👋
+### <h1>Olhá, sou Victor Augusto 👋</h1> 
 
 <!--
 **victoragusto100/victoragusto100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
